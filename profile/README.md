@@ -6,5 +6,4 @@ We are a team of students, faculty, and staff from the Interdisciplinary Program
 If you have questions, feedback, or ideas, feel free to reach out through this GitHub organization or our website.
 
 ## Maintainers  
-- [deepaksilaych](https://github.com/DeepakSilaych)  
 - [gulshan0007](https://github.com/gulshan0007) 
